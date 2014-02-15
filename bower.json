@@ -1,0 +1,22 @@
+{
+  "name": "ng-application-bootstrap",
+  "version": "0.0.0",
+  "homepage": "https://github.com/BrownPaperBag/ng-application-bootstrap",
+  "authors": [
+    "Michael Robinson <mike@brownpaperbag.co.nz>"
+  ],
+  "description": "Manually bootstrap applications with class .ng-application",
+  "main": "bootstrap.js",
+  "keywords": [
+    "AngularJS",
+    "Bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
