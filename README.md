@@ -12,10 +12,12 @@ Manually bootstrap applications with class .ng-application
 <div class="ng-application" application-name="second-application"></div>
 
 <script src="/angular.js"></script>
-<script src="/ng-application-bootstrap/bootstrap.js"></script>
 
 <script>
   angular.module('first-application', []);
   angular.module('second-application', []);
 </script>
+
+<script src="/ng-application-bootstrap/bootstrap.js"></script>
+
 ```
